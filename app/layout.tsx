@@ -18,8 +18,7 @@ export const metadata: Metadata = {
     title: "RURASH - Aviation Parts & Services",
     description: "Global aviation parts and services for commercial, business, and military aircraft",
     type: "website",
-  },
-    generator: 'v0.dev'
+  }
 }
 
 export default function RootLayout({
