@@ -34,13 +34,6 @@ export function Hero() {
           {/* Content */}
           <div className="text-center lg:text-left animate-slide-up">
             <div className="mb-8">
-              <Image
-                src="/images/rurash-logo.png"
-                alt="RURASH Logo"
-                width={120}
-                height={120}
-                className="w-20 h-20 lg:w-28 lg:h-28 mx-auto lg:mx-0 mb-6 drop-shadow-2xl"
-              />
             </div>
 
             <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold leading-tight mb-8">
